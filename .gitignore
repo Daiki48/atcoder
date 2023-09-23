@@ -1,1 +1,6 @@
+# C++
 **/*.exe
+
+# Rust
+**/target
+**/Cargo.lock
